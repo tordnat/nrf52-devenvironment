@@ -1,5 +1,9 @@
-# nrf52-devenvironment
+# Minimal nRF52dk development environment
 Development environment for nRF52DK
+
+Features:
+- VSCode Debug environment with *marus-cortex-debug*
+- Supports Linux and MacOS
 
 ## Dependencies
 Dependencies can be install with your preferred package manager (apt, homebrew, yay, pacman etc.) or via the provided links. 
