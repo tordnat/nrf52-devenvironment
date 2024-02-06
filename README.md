@@ -1,5 +1,5 @@
 # Minimal nRF52dk development environment
-Development environment for nRF52DK
+Development environment for nRF52DK. This repository contains all necessary source files for a minimal program using Nordic Semiconductor nRF52DK.
 
 Features:
 - VSCode Debug environment with *marus-cortex-debug*
